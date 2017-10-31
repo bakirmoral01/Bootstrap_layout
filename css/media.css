@@ -1,0 +1,74 @@
+@media (max-width: 767px) { 
+    
+  
+    
+    .logo,.menu,.icon{
+    min-height: 50px;
+    background-color: #D0DFFF;
+    margin-top: 10px;
+    margin-bottom: 10px
+}
+
+   .content_one {
+    background-color: #D0DFFF;
+    min-height: 90px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+    .side_up {
+    min-height: 70px;
+    background-color: #69A6DF;
+    margin-bottom: 10px;
+}
+    
+   .content_two {
+    background-color: #D0DFFF;
+    min-height: 150px;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+    
+    .slider_two{
+         background-color: #D0DFFF;
+    min-height: 80px;
+    margin-top: 25px;
+    margin-bottom: 25px; 
+    }
+
+}
+@media (min-width: 768px) and (max-width: 991px) {
+    .side_up{
+        margin-top: 15px
+    }
+    .content_one{
+         background-color: #D0DFFF;
+    min-height: 100px;
+    margin-top: 25px;
+    margin-bottom: 25px; 
+    }
+    
+   
+    .slider_two{
+    min-height: 60px;
+    background-color: #D0DFFF;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+    .no_padding_right{
+    padding-left: 0px
+}
+    
+     .side_btm_cont{
+        min-height: 80px;
+    }
+    
+    .side_btm{
+        min-height: 100px;
+        margin-top: 15px
+    }
+    
+}
+@media (min-width: 992px) and (max-width: 1199px) { 
+}
+@media (min-width: 1200px) {
+}
